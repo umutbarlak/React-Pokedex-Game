@@ -1,0 +1,22 @@
+.Pokedex {
+  margin: 20px 20px;
+  border: 2px solid #b8235a;
+  border-radius: 30px;
+}
+
+.Pokedex-Cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.winner {
+  margin: 10px 0;
+  color: #4caf50;
+}
+
+.loser {
+  margin: 10px 0;
+  color: #b8235a;
+}
