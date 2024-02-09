@@ -1,9 +1,11 @@
-# React + Vite
+<h1>React Pokedex Game</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje react ile oluşturulmuş pokemon game projesidir. Pokemonlarımızı rastgele İki farklı grup oluşturup bu gruplar arasında exp değerlernin toplamlarına göre kazanan veya kaybedenin gösterildiği bir oyun.
 
-Currently, two official plugins are available:
+<h2>Kullanılan Diller</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-Pokedex-Game
+Bu projede React kullanılmıştır
+
+<h2>Ekran Videosu</h2>
+
+![](poke-game.gif)
